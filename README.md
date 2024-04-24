@@ -3,7 +3,7 @@
 ###  &nbsp;About Me
 
 - 🤔 &nbsp; Interested in anything and everything unkown, real and virtual events that contribute to my personal and professional growth!
-- 💼 &nbsp; Freelance Front-End Developer.
+- 💼 &nbsp; CTO at TradeToWorld Marketplace Corporation.
 - ⚡️ &nbsp; Fun fact: I previously dedicated myself to academic research, focusing on the fields of Aesthetic and Literature.
 
 ---
