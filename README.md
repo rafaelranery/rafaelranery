@@ -58,8 +58,3 @@
 #### Others
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,linux,powershell,md,nginx,figma,codepen,discord,obsidian)](https://skillicons.dev)
 
-
----
-### &nbsp;WakaTime Stats
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelrapnery)](https://github.com/anuraghazra/github-readme-stats)
