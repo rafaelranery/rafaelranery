@@ -13,7 +13,6 @@
 <p align="center">
 <a href="https://github.com/rafaelranery">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelranery&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelranery&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 ---
